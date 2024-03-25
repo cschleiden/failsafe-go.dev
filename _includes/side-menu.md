@@ -22,7 +22,7 @@
 
 - Resources
   - [Godocs][godocs]
-  - [Github][github]
+  - [GitHub][github]
   - [Examples][examples]
   - [Comparisons][comparisons]
   - [Slack][slack]
